@@ -64,9 +64,6 @@ The model achieves high accuracy in traffic classification, with the binary clas
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835325
 - Efficient KAN notation: https://github.com/Blealtan/efficient-kan
 
-## License
-
-[Include appropriate license information]
 
 ## Acknowledgements
 
