@@ -18,6 +18,7 @@ The project implements various wavelet types for network traffic analysis:
 - Visualization of results and model performance
 
 ## Model Architecture
+![WavKAN](./images/WavKAN.png)
 
 ## How to Use
 
