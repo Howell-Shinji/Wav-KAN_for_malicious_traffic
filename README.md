@@ -17,6 +17,9 @@ The project implements various wavelet types for network traffic analysis:
 - Performance evaluation metrics (accuracy, precision, recall, F1 score)
 - Visualization of results and model performance
 
+## Model Architecture
+![WavKAN](./images/WavKAN.png)
+
 ## How to Use
 
 ### Requirements
@@ -44,8 +47,6 @@ The project implements various wavelet types for network traffic analysis:
 ### Multi-class Classification
 
 Similarly, use `models/wavkan_multi.ipynb` for multi-class network attack classification.
-
-## Model Architecture
 
 The Wav-KAN model consists of:
 - Input layer matching the network traffic feature dimensions
